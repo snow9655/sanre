@@ -1,0 +1,12 @@
+package com.hodanet.sanre.common.base;
+
+import android.app.ListActivity;
+
+/**
+ * <pre>
+ * ª˘¿‡¿©’π
+ * </pre>
+ */
+public class HodaListActivity extends ListActivity {
+
+}

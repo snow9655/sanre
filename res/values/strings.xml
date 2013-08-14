@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- APP -->
+    <string name="qdid">000000</string>
+	<string name="init_app">Waiting…</string>
+    <string name="app_name">手机散热器</string>
+	<string name="app_introduction">手机散热器</string>
+	<string name="app_copyright">©2013.HODANET</string>
+	<string name="umeng_appkey">51f9c7c456240b63e200148b</string>
+	
+	<string name="loading">加载中……</string>
+	<string name="no_data">未查询到数据……</string>
+    <string name="network_unavailable">网络连接不可用</string>
+    
+    <string name="main_sanre">手机散热</string>
+    <string name="main_baoyang">健康保养</string>
+    
+
+</resources>
